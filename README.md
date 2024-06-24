@@ -1,6 +1,6 @@
 ### Assalamu ala malittaba al huda
 - 🔭 I’m currently working on nothing.
-- 🌱 I’m currently DSA in C++
+- 🌱 I’m currently doing DSA in C++
 - 👯 I’m looking to collaborate on Ecommerce website Development.
 - 🤔 
 - 📫 How to reach me: https://www.instagram.com/faizal_iitj?igsh=NmRncTg3eXFuNjJ0)https://www.instagram.com/faizal_iitj?igsh=NmRncTg3eXFuNjJ0
