@@ -1,4 +1,4 @@
-### Assalamu ala malittaba al huda
+### Hello!
 - 🔭 I’m currently working on nothing.
 - 🌱 I’m currently doing DSA in C++
 - 👯 I’m looking to collaborate on Ecommerce website Development.
