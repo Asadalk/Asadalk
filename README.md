@@ -1,6 +1,6 @@
 ### Hello!
-- 🔭 I’m currently working on nothing.
-- 🌱 I’m currently doing DSA in C++ & working on project which will generate caption according to people previous posts tone/langg.
+- 🔭 I’m currently working on project which will generate caption according to people previous posts tone/langg.
+- 🌱 I’m currently doing DSA in C++.
 <!-- 👯 I’m looking to collaborate on Ecommerce website Development.
 - 🤔 -->
 - 📫 How to reach me: https://www.instagram.com/faizal_iitj/
